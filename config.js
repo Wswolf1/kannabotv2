@@ -61,7 +61,7 @@ global.psaweria = 'https://saweria.co/wsfinest'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281393483929'
 global.nomorown = '6282116277971'
-global.namebot = 'NAYLA BOT'
+global.namebot = 'NAYLA'
 global.nameown = 'wsfinest'
 
 
@@ -115,7 +115,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Wsfinest | Offcial⁩ 」' //Main Watermark
+global.wm = '「 Wsfinest | Offcial⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NAYLAA - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ nαylα 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
