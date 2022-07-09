@@ -534,10 +534,10 @@ const listMessage = {
             ]
         }
         //await conn.sendMessage(m.chat, message, m, { mentionedJid: [m.sender] })
-        sendButImage(from, teks, trans, img, but)
-        simple.updatePresence(from, Presence.recording)
+       simple.updatePresence(from, Presence.recording)
 sound = fs.readFileSync('Audio/dj9.mp3')
 simple.sendMessage(from, sound, MessageType.audio, {quoted: ftrol, mimetype: 'audio/mp4', ptt:true})
+       
     //------------------- BUTTON VID
     //conn.sendButton(m.chat, text, wm, 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4', [['Ping', '.ping'],['Owner', '.owner'],['Donasi', '.donasi']],ftoko, { gifPlayback: true, contextInfo: { externalAdReply: {title: namebot, body: bottime, sourceUrl: sig, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
     
