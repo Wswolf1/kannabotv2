@@ -534,7 +534,7 @@ const listMessage = {
             ]
         }
         //await conn.sendMessage(m.chat, message, m, { mentionedJid: [m.sender] })
-       simple.updatePresence(from, Presence.recording)
+       
 sound = fs.readFileSync('Audio/dj9.mp3')
 simple.sendMessage(from, sound, MessageType.audio, {quoted: ftrol, mimetype: 'audio/mp4', ptt:true})
        
